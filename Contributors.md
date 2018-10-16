@@ -8018,7 +8018,7 @@ Orandi Harris
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
-- [Jude Osbert K](https://github.com/judeosbert)
+-  [Jude Osbert K](https://github.com/judeosbert)
 - [Cholinka13](https://github.com/cholinka13)
 - [Hearot](https://github.com/hearot)
 - [Kostas Evangelou](https://github.com/kostasev)
@@ -8049,3 +8049,4 @@ Orandi Harris
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
+- [Chikwendu Abakporo](https://github.com/igwelism)
